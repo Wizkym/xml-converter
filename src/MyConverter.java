@@ -7,7 +7,7 @@ import org.json.XML;
 import java.io.*;
 
 
-public class MyDomParser {
+public class MyConverter {
     private static final int PRETTY_PRINT_INDENT_FACTOR = 4;
 
     public static void main(String[] args) {
